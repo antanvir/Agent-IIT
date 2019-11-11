@@ -51,7 +51,7 @@ def gini_index(groups, classes):
     # sum weighted Gini index for each group
     gini = 0.0
     for group in groups:
-        size = float(len(group))
+        size =  (len(group))
         # avoid divide by zero
         if size == 0:
             continue
@@ -220,3 +220,4 @@ def main():
 
 if __name__ == "__main__":
     tree = main()
+    print_tree(tree, 1)

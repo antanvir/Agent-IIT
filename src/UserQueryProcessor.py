@@ -20,7 +20,7 @@ withoutStopTokenizedWords = []
 # myKeywords = ['2nd','4th','6th','8th','exam','xm','2','4','6','8','o+','a+','b+','o-','a-','b-','iit', 'class', 'routine' ,
 #              'student' , 'teacher' , 'course' , 'faculty' , 'blood' ,'semester', 'when','what', 'who', 'tomorrow', 'today', ]
 
-myKeywords = ['exam', 'xm', 'o+', 'a+', 'b+', 'o-', 'a-', 'b-', 'iit', 'class', 'routine', 'student', 'teacher', 'course',
+myKeywords = ['exam', 'xm', 'o+', 'a+', 'b+', 'o-', 'a-', 'b-', 'iit', 'class', 'routine', 'student', 'teacher', 'course', 'rifat',
         'faculty', 'blood', 'semester', 'when', 'what', 'who', 'tomorrow', 'today', 'next', 'hi', 'hello', 'bye', 'time', 'faculty',
         'okay', 'thanks', 'thank', 'ok', 'sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'shariful', 'islam', 'zerina', 'begum',
         'zulfiquar', 'hafiz', 'mahbubul', 'joarder', 'kazi', 'sakib', 'muheymin', 'muheymin-us-sakib', 'mohommad', 'shoyaib', 'shafiul',
@@ -55,7 +55,7 @@ def process(userInput):
     extractKeywords = []
     closeMatched = []
     withoutStopTokenizedWords = []
-    
+
     userInput = userInput.lower()
     tokenizedWords = word_tokenize(userInput)
     # print(tokenizedWords)
