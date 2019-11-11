@@ -96,7 +96,7 @@ def generateQuery(extractKeywords):
             bloodGroup = Utility.bloodGrouping[term]
             # print(bloodGroup)
 
-        if "exam" in extractKeywords or "examinatiom" in extractKeywords:
+        if "xm" in extractKeywords or "exam" in extractKeywords or "examinatiom" in extractKeywords:
             requiresExamRoutine = True
 
         if "class" in extractKeywords or "routine" in extractKeywords :
@@ -256,7 +256,7 @@ def startChat():
         line = input("\n >> Write Your Messages Here >>\n")
         if line != "q" or line != "Q" or line != 'quit' or line != 'exit':
             extractKeywords = Controller.messageParser(line)
-            print(extractKeywords)
+            # print(extractKeywords)
             result = generateQuery(extractKeywords)
             if not result:
                 result = "No result found."
