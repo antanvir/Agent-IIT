@@ -1,0 +1,19 @@
+Std/Tchr,Sem,Day,([optional] Tchr_name,)Course (may include Time later)
+------------------------------------------------------------------------
+
+Std/Tchr:
+		1 - Tchr, 	0 - Std
+
+Sem:
+		2 -11th batch, 4 -10th batch, 6 -9th batch, 8 -8th batch
+
+Day: 
+		0-Sun, 1-Mon, 2-Tue, 3-Wed, 4-Thurs, 5-Fri, 6-Sat
+
+Tchr_name:
+		0-Zerina mam, 1-Zulfikar Hafiz sir, 2-Shoaib sir, 3-Kabir sir,
+		4-Noushin mam, 5-Abdus sattar vai, 6-Kishan vai
+
+Course:
+		ethics, mis, ai, distributed, testing, design
+

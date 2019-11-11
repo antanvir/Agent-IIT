@@ -1,0 +1,64 @@
+1,1,Computer Data And Network Security| 10:00am-10:50am
+1,1,Computer Data And Network Security| 11:00am-12:50pm
+1,4,Computer Data And Network Security| 11:00am-12:50pm
+2,0,Computer Organization| 11:00am-12:50pm
+2,2,Information Systems Ethics| 9:00am-10:50am
+2,3,Computer Organization| 2:00pm-3:50pm
+2,4,Information Systems Ethics| 2:00pm-3:50pm
+3,0,Management Information Systems| 11:00am-12:50pm
+3,2,Management Information Systems| 11:00am-12:50pm
+4,1,Software Project Management| 8:00am-9:50am
+4,4,Software Project Management| 8:00am-9:50am
+5,0,Software Requirements Specification And Analysis| 2:00pm-3:50pm
+5,2,Software Requirements Specification And Analysis| 11:00am-12:50pm
+6,1,Artificial Intelligence| 2:00pm-3:50pm
+6,2,Database Management System-I| 2:00pm-3:50pm
+6,3,Database Management System-I| 2:00pm-3:50pm
+6,3,Artificial Intelligence| 11:00am-12:50pm
+7,1,Information Security| 2:00pm-3:50pm
+7,4,Information Security| 2:00pm-3:50pm
+8,0,Machine Learning| 11:00am-12:50pm
+8,1,Operating Systems And System Programming| 11:00am-12:50pm
+8,2,Operating Systems And System Programming| 11:00am-12:50pm
+8,3,Machine Learning| 11:00am-12:50pm
+9,0,Distributed Systems| 10:00am-10:50am
+9,0,DataStructure And Algorithm| 2:00pm-3:50pm
+9,1,Distributed Systems| 11:00am-12:50pm
+9,1,DataStructure And Algorithm| 2:00pm-3:50pm
+9,2,DataStructure And Algorithm| 12:00pm-12:50pm
+9,4,Distributed Systems| 11:00am-12:50pm
+10,1,Artificial Intelligence| 2:00pm-3:50pm
+10,3,Artificial Intelligence| 11:00am-12:50pm
+11,2,Database Management System-I| 2:00pm-3:50pm
+11,3,Database Management System-I| 2:00pm-3:50pm
+12,0,Objec Oriented Concepts-I| 8:00am-9:50am
+12,0,Software Metrics| 2:00pm-3:50pm
+12,2,Objec Oriented Concepts-I| 2:00pm-3:50pm
+12,2,Software Metrics| 9:00am-10:50am
+13,0,DataStructure And Algorithm| 2:00pm-3:50pm
+13,1,DataStructure And Algorithm| 2:00pm-3:50pm
+13,2,DataStructure And Algorithm| 12:00pm-12:50pm
+14,0,Software Testing And Quality Assurance| 2:00pm-3:50pm
+14,1,Information Security| 2:00pm-3:50pm
+14,2,Information Systems Ethics| 9:00am-10:50am
+14,3,Information Systems Ethics| 10:00am-10:50am
+14,4,Software Testing And Quality Assurance| 11:00am-12:50pm
+14,4,Information Systems Ethics| 2:00pm-3:50pm
+14,4,Information Security| 2:00pm-3:50pm
+15,0,Computer Organization| 11:00am-12:50pm
+15,0,Distributed Systems| 10:00am-10:50am
+15,1,Distributed Systems| 11:00am-12:50pm
+15,2,Software Design and Analysis| 2:00pm-3:50pm
+15,3,Computer Organization| 2:00pm-3:50pm
+15,3,Software Design and Analysis| 2:00pm-3:50pm
+15,4,Distributed Systems| 11:00am-12:50pm
+16,2,Ordinary Differential Equations| 9:00am-10:50am
+16,3,Ordinary Differential Equations| 8:00am-8:50am
+17,0,Business Studies For Engineers| 12:00pm-12:50am
+17,4,Business Studies For Engineers| 11:00am-12:50pm
+18,0,Bangladesh Studies| 10:00am-10:50am
+18,1,Bangladesh Studies| 9:00am-10:50am
+19,1,Business Psychology| 9:00am-10:50am
+19,3,Business Psychology| 9:00am-10:50am
+20,1,Probability And Statistics for Engineers-II| 11:00am-12:50pm
+20,2,Probability And Statistics for Engineers-II| 11:00am-11:50am

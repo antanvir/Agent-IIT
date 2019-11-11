@@ -1,0 +1,48 @@
+2,0,Object Oriented Concepts-I| 8:00am-9:50am
+2,0,Bangladesh Studies| 10:00am-10:50am
+2,0,Computer Organization| 11:00am-12:50pm
+2,0,Data Structure And Algorithm| 2:00pm-3:50pm
+2,1,Bangladesh Studies| 9:00am-10:50am
+2,1,Probability And Statistics For Engineers-II| 11:00am-12:50pm
+2,1,Data Structure And Algorithm| 2:00pm-3:50pm
+2,2,Ordinary Differential Equations| 9:00am-10:50am
+2,2,Probability And Statistics For Engineers-II| 11:00am-11:50am
+2,2,Data Structure And Algorithm| 12:00pm-12:50pm
+2,2,ObjecOrientedConcepts-I 2:00pm-3:50pm
+2,3,OrdinaryDifferentialEquations 8:00am-8:50am
+2,3,ComputerOrganization 2:00pm-3:50pm
+4,0,BusinessStudiesForEngineers 12:00pm-12:50pm
+4,0,SoftwareRequirementsSpecificationAndAnalysis 2:00pm-3:50pm
+4,1,BusinessPsychology 9:00am-10:50am
+4,1,OperatingSystemsandSystemProgramming 11:00am-12:50pm
+4,1,InformationSecurity 2:00pm-3:50pm
+4,2,SoftwareRequirementsSpecificationAndAnalysis 11:00am-12:50pm
+4,2,DatabaseManagementSystem-I 2:00pm-3:50pm
+4,3,BusinessPsychology 9:00am-10:50am
+4,3,OperatingSystemsandSystemProgramming 11:00am-12:50pm
+4,3,DatabaseManagementSystem-I 2:00pm-3:50pm
+4,4,BusinessStudiesforEngineers 11:00am-12:50pm
+4,4,InformationSecurity 2:00pm-3:50pm
+6,0,DistributedSystems 10:00am-10:50am
+6,0,ManagementInformationSystems 11:00am-12:50pm
+6,0,SoftwareTestingandQualityAssurance 2:00pm-3:50pm
+6,1,DistributedSystems 11:00am-12:50pm
+6,1,ArtificialIntelligence 2:00pm-3:50pm
+6,2,InformationSystemsEthics 9:00am-10:50am
+6,2,ManagementInformationSystems 11:00am-12:50pm
+6,2,SoftwareDesignandAnalysis 2:00pm-3:50pm
+6,3,InformationSystemsEthics 9:00am-10:50am
+6,3,ArtificialIntelligence 11:00am-12:50pm
+6,3,SoftwareDesignandAnalysis 2:00pm-3:50pm
+6,4,DistributedSystems 9:00am-10:50am
+6,4,SoftwareTestingandQualityAssurance 11:00am-12:50pm
+6,4,InformationSystemsEthics 2:00pm-3:50pm
+8,0,MachineLearning 11:00am-12:50pm
+8,0,SoftwareMetrics 2:00pm-3:50pm
+8,1,SoftwareProjectManagement 8:00am-9:50am
+8,1,ComputerDataandNetworkSecurity 10:00am-10:50am
+8,1,ComputerDataandNetworkSecurity 11:00am-12:50pm
+8,2,SoftwareMetrics 9:00am-10:50am
+8,2,MachineLearning 11:00am-12:50pm
+8,4,SoftwareProjectManagement 8:00am-9:50am
+8,4,ComputerDataandNetworkSecurity 11:00am-12:50pm

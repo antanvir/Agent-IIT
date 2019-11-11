@@ -1,0 +1,22 @@
+2,0,17.11.2019,Data Structure And Algorithm| 10:00am-1:00pm
+2,3,20.11.2019,Probability And Statistics for Engineers-II| 10:00am-1:00pm
+2,0,24.11.2019,Ordinary Differential Equations| 10:00am-1:00pm
+2,3,27.11.2019,Object Oriented Concepts-I| 10:00am-1:00pm
+2,0,01.12.2019,Computer Organization| 10:00am-1:00pm
+2,3,04.12.2019,Bangladesh Studies| 10:00am-1:00pm
+4,0,17.11.2019,Operating Systems And System Programming| 10:00am-1:00pm
+4,3,20.11.2019,Business Psychology| 10:00am-1:00pm
+4,0,24.11.2019,Database Management System-I| 10:00am-1:00pm
+4,3,27.11.2019,Business Studies For Engineers| 10:00am-1:00pm
+4,0,01.12.2019,Software Requirements Specification And Analysis| 10:00am-1:00pm
+4,3,04.12.2019,Information Security| 10:00am-1:00pm
+6,0,17.11.2019,Distributed Systems| 2:00pm-5:00pm
+6,3,20.11.2019,Management Information Systems| 2:00pm-5:00pm
+6,0,24.11.2019,Information Systems Ethics| 2:00pm-5:00pm
+6,3,27.11.2019,Artificial Intelligence| 2:00pm-5:00pm
+6,0,01.12.2019,Software Testing And Quality Assurance| 2:00pm-5:00pm
+6,3,04.12.2019,Software Design And Analysis| 2:00pm-5:00pm
+8,0,17.11.2019,Computer Data And Network Security| 2:00pm-5:00pm
+8,0,24.11.2019,Software Project Management| 2:00pm-5:00pm
+8,3,27.11.2019,Machine Learning| 2:00pm-5:00pm
+8,3,04.12.2019,Software Metrics| 2:00pm-5:00pm

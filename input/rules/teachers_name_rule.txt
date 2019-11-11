@@ -1,0 +1,30 @@
+  Teacher,Semester,Course+Time
+--------------------------------
+
+Teacher:
+	1 MSI	Prof. Dr. Md. Shariful Islam 
+	2 ZB	Prof. Dr. Zerina Begum 
+	3 MZH	Prof. Mohd. Zulfiquar Hafiz 
+	4 MAJ	Prof. Dr. Md. Mahbubul Alam Joarder
+	5 KMS	Prof. Dr. Kazi Muheymin-Us-Sakib
+	6 MS	Prof. Dr. Mohommad Shoyaib
+	7 SAK	Dr. Md. Shafiul Alam Khan
+	8 BMH	Dr. B M Mainul Hossain
+	9 NN	Dr. Naushin Nower 
+	10 AK	Dr. Ahmedul Kabir
+	11 NAT	Md. Nurul Ahad Tawhid 
+	12 MSS	Md. Saeed Siddik
+	13 NAN	Nadia Nahar 
+	14 AS	Abdus Sattar 
+	15 KKG	Kishan Kumar Ganguly
+	16 CP	Dr. Chandranath Poddar 
+	17 IA	Md. Iftekharul Amin 
+	18 KMR	Kazi Mahbubur Rahman 
+	19 MSU	Dr. Muhammad Shariat Ullah 
+	20 SH	Prof. Shahdad Hossain
+
+Semester:
+	2 11th Batch
+	4 10th Batch
+	6 9th Batch
+	8 8th Batch

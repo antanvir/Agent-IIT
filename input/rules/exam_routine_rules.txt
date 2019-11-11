@@ -1,0 +1,11 @@
+   Semester,Date,DayCode,Course+Time
+---------------------------------------
+
+
+Semester:
+		2 -11th batch, 4 -10th batch, 6 -9th batch, 8 -8th batch
+
+DayCode: 
+		0-Sun, 1-Mon, 2-Tue, 3-Wed, 4-Thurs, 5-Fri, 6-Sat
+
+
